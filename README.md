@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanvural10&label=Profile%20views&color=0e75b6&style=flat" alt="furkanvural10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iafs10" target="blank"><img src="https://img.shields.io/twitter/follow/iafs10?logo=twitter&style=for-the-badge" alt="iafs10" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript, SQL, Database**
 
 - 👯 I’m looking to collaborate on [DsmDictionary](https://github.com/Furkanvural10/dsm-v-dictionary)
