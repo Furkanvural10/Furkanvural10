@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Furkan Vural</h1>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
+<h4 align="center">-- -- -- -- -- -- -- -- -- -- -- -- --</h4>
+
+
+
 
 - 🌱 I’m currently learning **iOS, Javascript, SQL**
 
