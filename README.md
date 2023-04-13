@@ -2,9 +2,7 @@
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanvural10&label=Profile%20views&color=0e75b6&style=flat" alt="furkanvural10" /> </p>
-
-- 🌱 I’m currently learning **Javascript, SQL, Database**
+- 🌱 I’m currently learning **iOS, Javascript, SQL**
 
 - 👯 I’m looking to collaborate on [DsmDictionary](https://github.com/Furkanvural10/dsm-v-dictionary)
 
