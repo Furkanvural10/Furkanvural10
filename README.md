@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [DsmDictionary](https://github.com/Furkanvural10/dsm-v-dictionary)
 
-- 📝 I regularly write articles on [https://medium.com/@furrkanvural](https://medium.com/@furrkanvural)
+- 📝 I regularly share videos about iOS Development on [Youtube](https://www.youtube.com/@furrkanvural/videos)
 
 - 💬 Ask me about **Swift, iOS Development**
 
