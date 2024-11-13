@@ -6,9 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **iOS, Javascript, SQL**
-
-- 👯 I’m looking to collaborate on [DsmDictionary](https://github.com/Furkanvural10/dsm-v-dictionary)
+- 🌱 I’m currently learning **Javascript, SQL**
 
 - 📝 I regularly share videos about iOS Development on my Youtube [channel](https://www.youtube.com/@furrkanvural/videos)
 
